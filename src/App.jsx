@@ -42,6 +42,7 @@ function App() {
               ))}
           </tbody>
         </Table>
+        <h3>Made by Bintang Ary Wardhana, 2023.</h3>
       </Container>
     </>
   );
